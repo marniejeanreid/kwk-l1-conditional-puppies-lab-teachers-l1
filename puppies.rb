@@ -4,7 +4,7 @@ def no_puppies (num)
   if num > 0
     "Get back to your animal goals!"
   else
-    "Well done, Rachel!"
+    "Good job, Rachel!"
   end
 end
 
